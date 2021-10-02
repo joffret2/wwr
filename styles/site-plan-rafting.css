@@ -21,13 +21,13 @@ Fonts are separated by a | */
   --paragraph-color-on-color: white; /* paragraph text on a colored background */ 
   --paragraph-background-color: #396E94  ;
   --nav-link-color: #396E94;
-  --nav-background-color: #b4170c;
+  --nav-background-color: #E29578;
   --nav-hover-link-color: white;
   --nav-hover-background-color: #396E94;
 }
 
 
-/*  Look around below...but DON'T CHANGE ANYTHING! */
+/*  Look around below...but DON'T CHANGE ANYTHING! SO  */
 
 body {
   max-width: 960px;
