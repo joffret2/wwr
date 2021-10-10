@@ -1,0 +1,17 @@
+
+img {
+    display: block;
+    border: 5px solid blue;
+    width: 75%;
+    margin: 0 auto;
+}
+h1, p {
+    border: 5px solid rgb(255, 0, 170);
+    text-align: center;
+}
+#image-box {
+    text-align: center;
+}
+.social a {
+    text-decoration: none;
+}
